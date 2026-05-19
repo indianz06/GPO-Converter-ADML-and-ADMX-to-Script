@@ -1,4 +1,4 @@
-# GPO to Script Converter (v1.6)
+# GPO to Script Converter (v16)
 
 Un outil puissant pour convertir les fichiers de modèles d'administration GPO (`.admx`) en scripts de configuration PowerShell, avec une gestion avancée des états et une intégration Cloud optionnelle.
 
